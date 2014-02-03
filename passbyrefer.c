@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
+//added a comment
 
 void mathOper(int n1,int n2,int *sum,int *diff){
       *sum=n1+n2;
